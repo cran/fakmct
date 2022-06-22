@@ -1,0 +1,16 @@
+900b5f4baba867361b2a45d1d4e2da6b *DESCRIPTION
+50ccfaf76f4fa5ea77ea880ff9e75e24 *NAMESPACE
+0c44d513e5d1b54642daeb38e08f8aa4 *R/fakmct.R
+e8ad4bd54e962b65c1289647bf886007 *R/helpers_function.R
+3d1cb7ff6c8fb0dd306cfaa1ab878ba8 *R/simulatedataIPM.R
+b86e4b971d1be99dd1577c2c932ddabe *README.md
+24b2425504aafea427a4c6fef777efa6 *data/simulatedataIPM.rda
+068e9068815a087d0fa55abbf08bd0c2 *man/choice_function.Rd
+e862165bf9e3e95e3a9459af952e56e5 *man/fakmct.Rd
+edebde1f9601b917725021ccc254fdf5 *man/fuzzy_and.Rd
+39aaed747af9d90f78d75ff985bb98b5 *man/fuzzy_norm.Rd
+58130e36a8bbce0f4837b8a309cfd306 *man/linalg_norm.Rd
+5a0f50e7baef078a4ef9359338cc0cc0 *man/match_function.Rd
+ca6dfffdccc9618cf1f8d3200d76a09d *man/simulatedataIPM.Rd
+752db62b230beb81da76e5fc012d1762 *man/update_weight.Rd
+94cb78d5b5fe66b523f09bddc68f12b1 *man/vigilance_check.Rd
